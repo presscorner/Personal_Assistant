@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Personal_Assistant.iml" filepath="$PROJECT_DIR$/.idea/Personal_Assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Personal Assistant/task/Personal_Assistant.Personal_Assistant-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Personal Assistant/task/Personal_Assistant.Personal_Assistant-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Personal_Assistant.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Personal_Assistant.util.iml" />
+    </modules>
+  </component>
+</project>
